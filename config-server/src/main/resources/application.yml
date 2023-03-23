@@ -6,7 +6,9 @@ spring:
     name: configserver
   cloud:
     config:
+      name: dinamic-config
       enabled: true
       server:
         git:
+          default-label: dinamic-config
           uri: D:\demos\ecommerce-ms-config-server #file:///D:/demos/ecommerce-ms-config-server
