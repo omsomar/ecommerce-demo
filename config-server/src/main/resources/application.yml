@@ -11,4 +11,4 @@ spring:
       server:
         git:
           default-label: dinamic-config
-          uri: D:\demos\ecommerce-ms-config-server #asdf
+          uri: D:\demos\ecommerce-ms-config-server #asdfasaaaaa
